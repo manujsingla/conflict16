@@ -1,1 +1,2 @@
-text1 in gitconflict
+text1 in new1
+
